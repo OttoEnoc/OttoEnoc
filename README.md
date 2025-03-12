@@ -11,7 +11,7 @@
 ### 🚀 **O que estou fazendo?**  
 - 🔭 Atualmente estudo **Ciência da Computação** e aprimorando habilidades em **Inteligência Artificial e Ciência de Dados**. 
 - 🌱 Aprendendo sobre **Machine Learning, Python, SQL e Análise de Dados**.  
-- 🙌 No momento estou realizando um curso **Introdução a AI-900 Microsoft**.
+- 🙌 No momento estou realizando o curso **"Introdução a AI-900 Microsoft"**.
 - 🤔 Procuro ajuda para me especializar e encontrar **boas oportunidades no mercado de tecnologia**.  
 - 💬 Pergunte-me sobre **programação, análise de dados, machine learning e tecnologia em geral**.  
 - ⚡ **Curiosidade:** Apaixonado por tecnologia, dados e inteligência artificial! 🚀  
