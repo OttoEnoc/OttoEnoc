@@ -24,7 +24,7 @@
 
 ✅ **Banco de Dados:** MySQL(básico)
 
-✅ **Desenvolvimento Web:** HTML, CSS, JavaScript (básico)  
+✅ **Desenvolvimento Web:** HTML, CSS, JavaScript
 
 ✅ **Ferramentas:** Git, Linux, Office  
 
