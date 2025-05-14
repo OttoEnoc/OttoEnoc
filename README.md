@@ -9,21 +9,20 @@
 ---
 
 ### 🚀 **O que estou fazendo?**  
-- 🔭 Atualmente estudo **Ciência da Computação** e aprimorando habilidades em **Inteligência Artificial e Ciência de Dados**. 
+- 🕴  Atualmente trabalho como FreeLancer com foco no desenvolvimento web.
+- 🔭 Curso **Ciência da Computação** e aprimorando habilidades em **Inteligência Artificial e Ciência de Dados**. 
 - 🌱 Aprendendo sobre **Machine Learning, Python, SQL e Análise de Dados**.  
-- 🙌 No momento estou realizando o curso **"Introdução a AI-900 Microsoft"**.
-- 🤔 Procuro ajuda para me especializar e encontrar **boas oportunidades no mercado de tecnologia**.  
-- 💬 Pergunte-me sobre **programação, análise de dados, machine learning e tecnologia em geral**.  
-- ⚡ **Curiosidade:** Apaixonado por tecnologia, dados e inteligência artificial! 🚀  
+- 🤔 Procuro oportunidades para me especializar e encontrar **boas oportunidades no mercado de tecnologia**.  
+- 💬 Pergunte-me sobre **programação, análise de dados, machine learning e tecnologia em geral**.   
 
 ---
 
 ### 💻 **Habilidades Técnicas**  
 ✅ **Linguagens:** Python, SQL, C, Java  
-✅ **Machine Learning & IA:** TensorFlow, Scikit-learn, Pandas  
+✅ **Design e Edição:** Criação de interfaces, design gráfico, edição de vídeos
 ✅ **Banco de Dados:** MySQL, PostgreSQL (básico)
 ✅ **Desenvolvimento Web:** HTML, CSS, JavaScript (básico)  
-✅ **Ferramentas:** Git, Linux, Jupyter Notebook  
+✅ **Ferramentas:** Git, Linux, Office  
 
 ---
 
