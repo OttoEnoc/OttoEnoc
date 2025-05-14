@@ -18,10 +18,14 @@
 ---
 
 ### 💻 **Habilidades Técnicas**  
-✅ **Linguagens:** Python, SQL, C, Java  
+✅ **Linguagens:** Python, SQL, C, Java
+
 ✅ **Design e Edição:** Criação de interfaces, design gráfico, edição de vídeos
-✅ **Banco de Dados:** MySQL, PostgreSQL (básico)
+
+✅ **Banco de Dados:** MySQL(básico)
+
 ✅ **Desenvolvimento Web:** HTML, CSS, JavaScript (básico)  
+
 ✅ **Ferramentas:** Git, Linux, Office  
 
 ---
