@@ -4,7 +4,6 @@
 - Estudante de **Ciência da Computação** na **Universidade Presbiteriana Mackenzie** (5º semestre).
 - Buscando oportunidades de **estágio/emprego** na área de **Inteligência Artificial, Ciência de Dados ou Desenvolvimento de Software**.
 - Residente em **São Paulo**, com **disponibilidade para trabalho presencial**.  
-  
 
 ---
 
@@ -19,45 +18,47 @@
 
 ### 💼 **Projetos em Destaque**  
 
-#### 📌 Loja Online - Co81
+#### 📌 Loja Online - Co81  
 Site desenvolvido para apresentar produtos e serviços de forma clara e funcional, com foco em identidade visual, experiência do usuário e vendas.
 
 <div>  
-  <a href="https://www.co81.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Acessar%20Site-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
+  <a href="https://www.co81.com.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Acessar%20Site-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>  
 </div>
 
 ---
 
-#### 📌 Portfólio Visual – Seja Desejante
+#### 📌 Portfólio Visual – Seja Desejante  
 Projeto desenvolvido para destacar a identidade profissional da cliente, com foco na apresentação de serviços, trajetória e contato. Layout personalizado, navegação fluida e estrutura pensada para reforçar a autoridade e presença digital.
 
 <div>  
-  <a href="https://www.sejadesejante.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/-Acessar%20Site-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
+  <a href="https://www.sejadesejante.com.br/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Acessar%20Site-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>  
 </div>
 
+---
+
 ### 💻 **Habilidades Técnicas**  
-✅ **Linguagens:** Python, SQL, C, Java
-
-✅ **Design e Edição:** Criação de interfaces, design gráfico, edição de vídeos
-
-✅ **Banco de Dados:** MySQL(básico)
-
-✅ **Desenvolvimento Web:** HTML, CSS, JavaScript
-
+✅ **Linguagens:** Python, SQL, C, Java  
+✅ **Design e Edição:** Criação de interfaces, design gráfico, edição de vídeos  
+✅ **Banco de Dados:** MySQL (básico)  
+✅ **Desenvolvimento Web:** HTML, CSS, JavaScript  
 ✅ **Ferramentas:** Git, Linux, Office  
 
 ---
 
 ### 🌎 **Conecte-se comigo!**  
 <div> 
-  <a href="https://www.linkedin.com/in/ottoenoc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ottoenoc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/11998280299" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/ottoenoc/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:ottoenoc@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://wa.me/11998280299" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>  
 
