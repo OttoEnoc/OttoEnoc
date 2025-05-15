@@ -17,6 +17,32 @@
 
 ---
 
+### 💼 **Projetos em Destaque**  
+
+#### 📌 Site Institucional – Loja XYZ  
+Site desenvolvido para apresentar produtos e serviços de forma clara e funcional, com foco em identidade visual e experiência do usuário.
+
+![Preview do site Loja Co81](./img/loja-xyz-preview.png)
+
+<div>  
+  <a href="https://exemplo1.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Acessar%20Site-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
+  </a>  
+</div>
+
+---
+
+#### 📌 Portfólio Visual – Artista Digital  
+Projeto com foco na apresentação visual do trabalho de um artista independente. Layout personalizado, navegação fluida e responsiva.
+
+![Preview do site Portfólio Artista](./img/artista-portfolio-preview.png)
+
+<div>  
+  <a href="https://exemplo2.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Acessar%20Site-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
+  </a>  
+</div>
+
 ### 💻 **Habilidades Técnicas**  
 ✅ **Linguagens:** Python, SQL, C, Java
 
