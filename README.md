@@ -19,21 +19,21 @@
 
 ### 💼 **Projetos em Destaque**  
 
-#### 📌 Site Institucional – Loja XYZ  
-Site desenvolvido para apresentar produtos e serviços de forma clara e funcional, com foco em identidade visual e experiência do usuário.
+#### 📌 Loja Online - Produtos Esotéricos
+Site desenvolvido para apresentar produtos e serviços de forma clara e funcional, com foco em identidade visual, experiência do usuário e vendas.
 
 ![Preview do site Loja Co81](./img/loja-xyz-preview.png)
 
 <div>  
-  <a href="https://exemplo1.com" target="_blank">
+  <a href="https://www.co81.com.br" target="_blank">
     <img src="https://img.shields.io/badge/-Acessar%20Site-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
   </a>  
 </div>
 
 ---
 
-#### 📌 Portfólio Visual – Artista Digital  
-Projeto com foco na apresentação visual do trabalho de um artista independente. Layout personalizado, navegação fluida e responsiva.
+#### 📌 Portfólio Visual – Seja Desejante
+Projeto desenvolvido para destacar a identidade profissional da cliente, com foco na apresentação de serviços, trajetória e contato. Layout personalizado, navegação fluida e estrutura pensada para reforçar a autoridade e presença digital.
 
 ![Preview do site Portfólio Artista](./img/artista-portfolio-preview.png)
 
