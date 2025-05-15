@@ -19,10 +19,8 @@
 
 ### 💼 **Projetos em Destaque**  
 
-#### 📌 Loja Online - Produtos Esotéricos
+#### 📌 Loja Online - Co81
 Site desenvolvido para apresentar produtos e serviços de forma clara e funcional, com foco em identidade visual, experiência do usuário e vendas.
-
-![Preview do site Loja Co81](./img/loja-xyz-preview.png)
 
 <div>  
   <a href="https://www.co81.com.br" target="_blank">
@@ -35,10 +33,8 @@ Site desenvolvido para apresentar produtos e serviços de forma clara e funciona
 #### 📌 Portfólio Visual – Seja Desejante
 Projeto desenvolvido para destacar a identidade profissional da cliente, com foco na apresentação de serviços, trajetória e contato. Layout personalizado, navegação fluida e estrutura pensada para reforçar a autoridade e presença digital.
 
-![Preview do site Portfólio Artista](./img/artista-portfolio-preview.png)
-
 <div>  
-  <a href="https://exemplo2.com" target="_blank">
+  <a href="https://www.sejadesejante.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/-Acessar%20Site-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
   </a>  
 </div>
