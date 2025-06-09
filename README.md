@@ -49,9 +49,10 @@
 </a>
 </div>
 
-<picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OttoEnoc/OttoEnoc/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<div align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OttoEnoc/OttoEnoc/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 
 
 ---
